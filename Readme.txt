@@ -1,4 +1,4 @@
-C:\Users\Enrico\AppData\Roaming\Microsoft\Templates\LiveContent\16\User\Word Document Bibliography Styles
+C:\Users\***\AppData\Roaming\Microsoft\Templates\LiveContent\16\User\Word Document Bibliography Styles
 3566 Literaturverzeichnis mit Edition und Auflage
 3940 ???
 7001 Templates
